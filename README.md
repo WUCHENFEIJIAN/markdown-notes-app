@@ -46,7 +46,7 @@ npm run build
 ## 项目结构
 
 ```
-markdown-notes-app/
+├── README.md
 ├── Plan.md                    # 开发计划
 ├── PRD.md                     # 产品需求文档
 ├── Tech_Design.md             # 技术设计文档
